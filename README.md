@@ -5,6 +5,6 @@
  
       b. Hans data will be the test data.
       
-      c. We have edited the script written by Hans people (Berts of a feather https://arxiv.org/pdf/1911.02969.pdf) to fine tune the model everytime.
+      c. Predict 47.sh - We have edited the script written by Hans people (Berts of a feather https://arxiv.org/pdf/1911.02969.pdf) to fine tune the model everytime.
       
 3. Preds_run2_final.xlsx gives the summary of our results for the 10 runs. Also we have the predictions we got along with the gold label.
